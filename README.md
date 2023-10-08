@@ -63,7 +63,7 @@ In this Section results are discussed
              - Optimizer: Adam.
              - Accuracy: Less than 75%
 ![1st_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/1st_model.png)
-
+---------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------
             Model 2:
              - Architecture: Three hidden layers with 512, 128, and 32 neurons, respectively.
