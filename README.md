@@ -35,6 +35,7 @@ The purpose of the following instructions is to perform data preprocessing and p
 
 2.	### Results: 
 In this Section results are discussed
+![1st_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/1st_model.png)
 
     2.1	Data Preprocessing:
 
