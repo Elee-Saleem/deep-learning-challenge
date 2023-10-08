@@ -62,7 +62,7 @@ In this Section results are discussed
              - Loss function: Binary cross-entropy.
              - Optimizer: Adam.
              - Accuracy: Less than 75%
-             ![alt text](http://url/to/img.png)
+             ![alt text](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/1st_model.png)
 
             Model 2:
              - Architecture: Three hidden layers with 512, 128, and 32 neurons, respectively.
@@ -70,7 +70,7 @@ In this Section results are discussed
              - Loss function: Categorical cross-entropy.
              - Optimizer: Adam.
              - Accuracy: Less than 75%
-             ![alt text](http://url/to/img.png)
+             ![alt text](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/2nd_model.png)
 
             Model 3:
              - Architecture: Three hidden layers with 128, 64, and 16 neurons, respectively.
@@ -79,7 +79,7 @@ In this Section results are discussed
              - Optimizer: Customized Adam optimizer with a learning rate of 0.001.
              - Checkpoint callback: Model weights are saved during training.
              - Accuracy: 75%
-             ![alt text](http://url/to/img.png)
+             ![alt text](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/3rd_model.png)
 
 
         	Were you able to achieve the target model performance?
