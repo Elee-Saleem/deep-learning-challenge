@@ -35,7 +35,6 @@ The purpose of the following instructions is to perform data preprocessing and p
 
 2.	### Results: 
 In this Section results are discussed
-![1st_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/1st_model.png)
 
     2.1	Data Preprocessing:
 
@@ -64,6 +63,7 @@ In this Section results are discussed
              - Optimizer: Adam.
              - Accuracy: Less than 75%
              ![1st_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/1st_model.png)
+![1st_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/1st_model.png)
 
             Model 2:
              - Architecture: Three hidden layers with 512, 128, and 32 neurons, respectively.
@@ -72,6 +72,7 @@ In this Section results are discussed
              - Optimizer: Adam.
              - Accuracy: Less than 75%
              ![2nd_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/2nd_model.png)
+![2nd_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/2nd_model.png)
 
             Model 3:
              - Architecture: Three hidden layers with 128, 64, and 16 neurons, respectively.
@@ -81,7 +82,7 @@ In this Section results are discussed
              - Checkpoint callback: Model weights are saved during training.
              - Accuracy: 75%
              ![3rd_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/3rd_model.png)
-
+![3rd_model](https://github.com/Elee-Saleem/deep-learning-challenge/blob/main/images/3rd_model.png)
 
         	Were you able to achieve the target model performance?
             Yes, I achieved the target model performance.
